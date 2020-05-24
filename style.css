@@ -2,7 +2,7 @@
 /* main part of the webpage */
 
 section#main-text, .main-article {
-  width: 65%;
+  width: 69%;
   min-height: 200px;
   border: blue 1px solid;
   float: left;
@@ -27,7 +27,7 @@ aside#sidebar {
  float: right;
  border: blue 1px solid;
  line-height: 180%;
- margin-top: -15%;
+ margin-top: -20%;
  background-color: violet;
 }
 
