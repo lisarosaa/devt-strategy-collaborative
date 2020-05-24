@@ -24,4 +24,5 @@ aside#sidebar {
  display: block;
  float: right;
  text-align: center;
+ border: blue 1px solid;
 }
