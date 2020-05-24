@@ -13,7 +13,7 @@ section#main-text, .main-article {
 }
 
 section#main-text p, article.main-article p {
- padding: 5px; 
+ padding: 10px; 
 }
 
 /* references */
