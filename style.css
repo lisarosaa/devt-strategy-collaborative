@@ -13,7 +13,7 @@ section#main-text, .main-article {
 
 section#main-text p, article.main-article p {
  padding: 10px; 
- line-height: 3%;
+ line-height: 30%;
 }
 
 /* references */
@@ -23,5 +23,5 @@ aside#sidebar {
  min-height: 400px;
  float: right;
  border: blue 1px solid;
- line-height: 3%;
+ line-height: 30%;
 }
