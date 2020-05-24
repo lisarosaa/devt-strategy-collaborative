@@ -10,7 +10,7 @@ write a short description of your project:
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](./wireframe.gif)
 
 ## 0. Set-Up
 
@@ -39,6 +39,30 @@ what did you change in the HTML and why?
 what did you change in the CSS and why?
 
 ## 2. ...
+
+## 3. main text
+
+__As a site visitor, I want to learn about something cool__
+
+> assigned to __Sayed__
+
+### Repository
+
+1. This user story was developed locally by __ on a brach called `main-text`.
+1. The new branch was pushed to the shared repository
+1. A pull request was made to `master` & reviewed by the team
+1. Changes were merged to `master`
+
+### HTML
+
+- article element
+- something cool that everyone needs to know
+
+### CSS
+
+Styling for the new element
+
+---
 
 ...
 
