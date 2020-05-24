@@ -36,3 +36,23 @@ aside#sidebar h2 {
   color: white;
   font-size: 2.6vw;
 }
+
+header {
+  background:navy;
+  color: #ffffff;
+  padding-top: 30px;
+  min-height: 70px;
+  border-bottom: red 3px solid;
+}
+
+header h1 {
+    padding: 10px;
+}
+
+footer {
+  padding: 20px;
+  margin-top: 20px;
+  color: blue;
+  background-color: cyan;
+  text-align: center;
+}
