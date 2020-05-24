@@ -1,7 +1,7 @@
 
-#main-text, .main-article {
+section#main-text, .main-article {
   width: 65%;
-  min-height: 300px;
+  min-height: 200px;
   border: blue 1px solid;
   display: block;
   float: left;
@@ -9,7 +9,7 @@
   text-align: center;
 }
 
-#sidebar {
+aside#sidebar {
  width: 30%;
  min-height: 600px;
  display: block;
