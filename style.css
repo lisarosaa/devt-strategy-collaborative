@@ -3,4 +3,14 @@
   width: 65%;
   min-height: 600px;
   border: blue 1px solid;
+  display: block;
+  float: left;
+  margin: 1px;
+}
+
+#sidebar {
+ width: 30%;
+ min-height: 600px;
+ display: block;
+ float: right;
 }
