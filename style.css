@@ -9,12 +9,14 @@ section#main-text, .main-article {
   margin: 1px;
   text-align: center;
   text-decoration: justify;
+  background-color: dodgerblue;
+  color: white;
 }
 
 section#main-text p, article.main-article p {
  padding: 10px; 
  line-height: 120%;
- font-weight: 12px;
+ font-size: 1.4vw;
 }
 
 /* references */
@@ -24,10 +26,13 @@ aside#sidebar {
  min-height: 400px;
  float: right;
  border: blue 1px solid;
- line-height: 140%;
+ line-height: 180%;
  margin-top: -15%;
+ background-color: violet;
 }
 
 aside#sidebar h2 {
   text-align: center;
+  color: white;
+  font-size: 2.6vw;
 }
