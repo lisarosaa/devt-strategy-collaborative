@@ -27,3 +27,7 @@ aside#sidebar {
  line-height: 140%;
  margin-top: -15%;
 }
+
+aside#sidebar h2 {
+  text-align: center;
+}
