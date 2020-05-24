@@ -1,0 +1,6 @@
+
+#main-text, .main-article {
+  width: 65%;
+  min-height: 600px;
+  border: blue 1px solid;
+}
