@@ -1,4 +1,6 @@
 
+/* main part of the webpage */
+
 section#main-text, .main-article {
   width: 65%;
   min-height: 200px;
@@ -10,9 +12,15 @@ section#main-text, .main-article {
   text-decoration: justify;
 }
 
+section#main-text p, article.main-article p {
+ padding: 5px; 
+}
+
+/* references */
+
 aside#sidebar {
  width: 30%;
- min-height: 600px;
+ min-height: 400px;
  display: block;
  float: right;
  text-align: center;
