@@ -22,11 +22,11 @@ section#main-text p, article.main-article p {
 
 aside#sidebar {
  width: 30%;
- min-height: 400px;
+ min-height: 420px;
  float: right;
  border: blue 1px solid;
  line-height: 180%;
- margin-top: -33%;
+ margin-top: -34%;
  background-color: violet;
 }
 
