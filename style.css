@@ -2,26 +2,57 @@
 /* main part of the webpage */
 
 section#main-text, .main-article {
-  width: 65%;
+  width: 69%;
   min-height: 200px;
   border: blue 1px solid;
-  float: left;
   margin: 1px;
   text-align: center;
   text-decoration: justify;
+  background-color: dodgerblue;
+  color: white;
 }
 
 section#main-text p, article.main-article p {
  padding: 10px; 
- line-height: 3%;
+ line-height: 120%;
+ font-size: 14;
 }
 
 /* references */
 
 aside#sidebar {
  width: 30%;
- min-height: 400px;
+ min-height: 420px;
  float: right;
  border: blue 1px solid;
- line-height: 3%;
+ line-height: 180%;
+ margin-top: -33.8%;
+ background-color: violet;
+}
+
+aside#sidebar h2 {
+  text-align: center;
+  color: white;
+  font-size: 2.6vw;
+}
+
+header {
+  background:navy;
+  color: #ffffff;
+  padding-top: 30px;
+  min-height: 70px;
+  border-bottom: red 3px solid;
+}
+
+header h1 {
+    text-align: center;
+    padding: 10px;
+}
+
+footer {
+  padding: 20px;
+  margin-top: 20px;
+  color: blue;
+  background-color: cyan;
+  text-align: center;
 }

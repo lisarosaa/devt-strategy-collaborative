@@ -28,7 +28,7 @@ __A User can see my initial repository and live demo__
 
 __As a site visitor, I want to know what the web page is called__
 
-> assigned to __
+> assigned to Lisa
 
 ### Repository
 
@@ -53,7 +53,7 @@ __As a site visitor, I want to know what the web page is called__
 
 __As a site visitor, I want to read an introduction to this web page__
 
-> assigned to __
+> assigned to Galal
 
 ### Repository
 
