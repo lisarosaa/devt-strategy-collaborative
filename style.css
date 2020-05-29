@@ -7,7 +7,7 @@ section#main-text, .main-article {
   border: blue 1px solid;
   margin: 1px;
   text-align: center;
-  text-decoration: justify;
+  text-decoration: none;
   background-color: dodgerblue;
   color: white;
 }
